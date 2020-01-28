@@ -1,0 +1,31 @@
+[
+        {
+        "plan" : "MiniFX",
+        "capital" : "38,000",
+        "duration" : 6,
+        "status" : "RUNNING"
+      }, 
+      {"plan" : "CrystalFX",
+        "capital" : "180,000",
+        "duration" : 6,
+        "status" : "RUNNING"
+      },
+      {
+        "plan" : "MiniFX",
+        "capital" : "50,000",
+        "duration" : 6,
+        "status" : "COMPLETED"
+      },
+      {
+        "plan" : "RubyFX",
+        "capital" : "500,000",
+        "duration" : 6,
+        "status" : "COMPLETED"
+      },
+      {
+        "plan" : "CrystalFX",
+        "capital" : "200,000",
+        "duration" : 6,
+        "status" : "RUNNING"
+      }
+]
