@@ -8,7 +8,7 @@ import {
   colors,
   font,
 } from '../../styles/base';
-import PSchedule from '../../components/pSchedule'
+import PSchedule from '../../components/pSchedule';
 const componentName = () => (
   <View style={{paddingBottom: padding.md}}>
     <Header />
