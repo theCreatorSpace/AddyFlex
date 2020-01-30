@@ -3,34 +3,29 @@
         "plan" : "MiniFX",
         "capital" : "38,000",
         "duration" : 6,
-        "status" : "RUNNING",
-        "id": "1"
+        "status" : "RUNNING"
       }, 
       {"plan" : "CrystalFX",
         "capital" : "180,000",
         "duration" : 6,
-        "status" : "RUNNING",
-        "id": "2"
+        "status" : "RUNNING"
       },
       {
         "plan" : "MiniFX",
         "capital" : "50,000",
         "duration" : 6,
-        "status" : "COMPLETED",
-        "id": "3"
+        "status" : "COMPLETED"
       },
       {
         "plan" : "RubyFX",
         "capital" : "500,000",
         "duration" : 6,
-        "status" : "COMPLETED",
-        "id": "4"
+        "status" : "COMPLETED"
       },
       {
         "plan" : "CrystalFX",
         "capital" : "200,000",
         "duration" : 6,
-        "status" : "RUNNING",
-        "id": "5"
+        "status" : "RUNNING"
       }
 ]

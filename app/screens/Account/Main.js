@@ -45,7 +45,7 @@ export default class Main extends Component {
         </Text>
         <FlatList
           data={data}
-          keyExtractor={item => item.id}
+          keyExtractor={item => item.key}
           renderItem={({item}) => (
             <TouchableOpacity
               style={{flex: 1}}
