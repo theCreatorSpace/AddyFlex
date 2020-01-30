@@ -69,6 +69,8 @@ export const componentShadow = {
   radius: 3.84,
   elevation: 4,
 };
+
+// ALl font styles throughout the AddyFlex mobile Application
 export const font = {
   xsm: 12,
   sm: 14,
