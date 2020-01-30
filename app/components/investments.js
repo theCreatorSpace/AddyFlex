@@ -10,6 +10,8 @@ class investments extends Component {
     this.state = {};
   }
 
+//added comment
+
   render() {
     const props = this.props;
     return (
