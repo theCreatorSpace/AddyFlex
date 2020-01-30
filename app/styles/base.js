@@ -39,8 +39,8 @@ export const heightScale = {
   header: height * 0.1,
   headerInfo: height * 0.13,
   icon: height * 0.01,
-  investmentBreakdown: height * 0.38,
-  breakdownBoxHeight: height * 0.25,
+  investmentBreakdown: height * 0.43,
+  breakdownBoxHeight: height * 0.3,
   breakdownBoxWidth: width * 0.92,
 };
 export const appBorderRadius = {
