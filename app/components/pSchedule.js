@@ -20,7 +20,7 @@ export default class PSchedule extends Component {
         <FlatList
           data={data}
           style={{flex:1}}
-          keyExtractor={item => item.id}
+          keyExtractor={item => item.key}
           renderItem={({item}) => (
             <TouchableOpacity
               style={{flex: 1}}
