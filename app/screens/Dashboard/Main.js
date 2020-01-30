@@ -21,8 +21,7 @@ export default class Main extends Component {
         <ScrollView style={{padding: padding.sm}}>
           <DailyEarnings />
 
-          <InvestmentPlans navigation={this.props.navigation} />
-
+        
           <Transaction />
         </ScrollView>
       </View>
