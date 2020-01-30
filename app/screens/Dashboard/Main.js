@@ -20,8 +20,8 @@ export default class Main extends Component {
         <Header title={'Dashboard'} />
         <ScrollView style={{padding: padding.sm}}>
           <DailyEarnings />
-
-        
+          
+          <InvestmentPlans navigation={this.props.navigation} />
           <Transaction />
         </ScrollView>
       </View>
