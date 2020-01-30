@@ -10,7 +10,7 @@ class investments extends Component {
     this.state = {};
   }
 
-//added comment
+//function to cache images from local assets
 
   render() {
     const props = this.props;
