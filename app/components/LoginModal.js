@@ -55,7 +55,7 @@ export default class LoginForm extends Component {
             placeholder="password"
             onChangeText={password => this.setState({password})}
             value={this.state.password}
-            secureTextEntry={'true'}
+            secureTextEntry={true}
           />
         </View>
         <TouchableOpacity>
